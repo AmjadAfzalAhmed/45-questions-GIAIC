@@ -1,0 +1,12 @@
+{
+  "name": "45-questions-giaic",
+  "version": "1.0.0",
+  "description": "45 Typescript Question Assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amjad",
+  "license": "ISC"
+}
